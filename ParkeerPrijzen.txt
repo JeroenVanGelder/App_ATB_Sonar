@@ -1,0 +1,6 @@
+Dag
+10
+Week
+60
+Maand
+250

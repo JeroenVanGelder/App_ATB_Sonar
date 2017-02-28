@@ -1,0 +1,15 @@
+1
+Wiel
+50
+3
+Raam
+100
+4
+Ruitenwisser
+150
+100
+Niek
+200
+12
+d
+250
