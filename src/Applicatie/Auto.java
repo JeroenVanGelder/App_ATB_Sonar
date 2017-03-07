@@ -63,6 +63,8 @@ public class Auto {
                 writeOnderhoudsbeurtToFile(onderhoudsbeurt);
 			}
 		}
+
+
 	}
 
 	//the method before the extract parameter object refactoring
