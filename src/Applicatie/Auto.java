@@ -63,10 +63,6 @@ public class Auto {
                 writeOnderhoudsbeurtToFile(onderhoudsbeurt);
 			}
 		}
-
-		//introduce builder
-		TestCustomer test = new TestCustomerBuilder().setName("piet").setAddress("adressje").setPostal("3417RN").createTestCustomer();
-
 	}
 
 	//the method before the extract parameter object refactoring
