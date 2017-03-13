@@ -49,8 +49,8 @@ public class Brandstof{
 			if (f.exists() && f.isFile()) {
 				Scanner sc = new Scanner(f);
 				int gelezenAantal = Integer.parseInt(sc.next());
-				liters = gelezenAantal;
 				sc.close();
+				liters = gelezenAantal;
 			}
 		}catch(Exception e){System.out.print(e);}
 		return liters;
