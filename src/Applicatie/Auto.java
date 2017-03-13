@@ -64,8 +64,6 @@ public class Auto {
 			}
 		}
 
-		//introduce builder
-		TestCustomer test = new TestCustomerBuilder().setName("piet").setAddress("adressje").setPostal("3417RN").createTestCustomer();
 
 	}
 
