@@ -52,7 +52,7 @@ public class Brandstof{
 				sc.close();
 				liters = gelezenAantal;
 			}
-		}catch(Exception e){System.out.print(e);}
+		}catch(Exception e){sc.close(); System.out.print(e);}
 		return liters;
 	}
 
