@@ -65,6 +65,7 @@ public class Brandstof{
 				pw = new PrintWriter(new FileWriter(f));
 				pw.close();
 				sc = new Scanner(f);
+				sc.close();
 			}
 			while(true){  // controleren of het bestand niet al in het brandstoffen.txt staat
 				String match = "";
